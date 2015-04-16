@@ -1,4 +1,4 @@
-require_relative '../lib/quiz.rb'
+require 'spec_helper'
 
 
 describe "the app" do
